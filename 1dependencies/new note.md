@@ -1,7 +1,7 @@
 ---
-
-title: Final Report
-
-deadline: 2025-11-30
-
+tags: 
+status: child
+original:
+created: {{date}}T{{time}}
 ---
+

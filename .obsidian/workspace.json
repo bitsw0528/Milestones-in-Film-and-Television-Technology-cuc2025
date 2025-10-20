@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "5e062ed26b02e41f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1dependencies/new note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "new note"
-            }
-          },
-          {
             "id": "d68641f6ef64642c",
             "type": "leaf",
             "state": {
@@ -62,26 +48,12 @@
             }
           },
           {
-            "id": "a8d51e754b7e3e08",
+            "id": "2bb95ac6977f21a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1dependencies/blueprint.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "blueprint"
-            }
-          },
-          {
-            "id": "fe365d13c623bcb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1dependencies/progress.md",
+                "file": "3crystalized/research report- Milestones in Film and Television Technology- Evolution of Visual Effects (VFX).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,11 +68,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "progress"
+              "title": "research report- Milestones in Film and Television Technology- Evolution of Visual Effects (VFX)"
             }
           },
           {
-            "id": "76dd294758ad9b63",
+            "id": "83bf48d4f7c68235",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,8 +94,129 @@
               "icon": "lucide-file",
               "title": "working environment configuration"
             }
+          },
+          {
+            "id": "1b208caf6e235424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2references/Chanpum, Panas. (2023).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chanpum, Panas. (2023)"
+            }
+          },
+          {
+            "id": "71638945c3b7b2a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2references/Ando, Ryoichi. (2024).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ando, Ryoichi. (2024)"
+            }
+          },
+          {
+            "id": "16a5e75232fb1db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1dependencies/blueprint.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "blueprint"
+            }
+          },
+          {
+            "id": "479ab67cfc7ec4b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1dependencies/focused directions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "focused directions"
+            }
+          },
+          {
+            "id": "c62bc3f135fcfbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1dependencies/progress.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "progress"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "1dependencies/working environment configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for working environment configuration"
             }
           },
           {
@@ -262,6 +355,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bc92c3e0b9799cf0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 4
@@ -282,18 +389,27 @@
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "83bf48d4f7c68235",
   "lastOpenFiles": [
-    "1dependencies/focused directions.md",
-    "Untitled.md",
-    "1dependencies/new note.md",
-    "1dependencies/progress.md",
-    "1dependencies/working environment configuration.md",
+    "3crystalized/research report- Milestones in Film and Television Technology- Evolution of Visual Effects (VFX).md",
     "1dependencies/blueprint.md",
+    "1dependencies/working environment configuration.md",
+    "1dependencies/progress.md",
+    "1dependencies/focused directions.md",
+    "2references/Ando, Ryoichi. (2024).md",
+    "2references/Chanpum, Panas. (2023).md",
     "Index.md",
+    "1dependencies/attachments/avatar-mc-221123-02-78d2b5.jpg.avif",
+    "1dependencies/attachments",
+    "avatar-mc-221123-02-78d2b5.jpg.avif",
+    "panaschanpumVirtualProductionInteractive2023.md",
+    "1dependencies/new note.md",
+    "3crystalized/Untitled.md",
+    "2references/Untitled 1.md",
     "1dependencies/tags",
     "dependencies.md",
     "1dependencies",

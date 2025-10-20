@@ -1,8 +1,7 @@
 [
   "obsidian-git",
   "homepage",
-  "templater-obsidian",
   "omnisearch",
-  "opener",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-zotero-desktop-connector"
 ]

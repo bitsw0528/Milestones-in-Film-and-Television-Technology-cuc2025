@@ -4,7 +4,7 @@ research field: [[focused directions]]
 
 [[working environment configuration]]
 
-check status and work distribute here: [[progress]]
+check status and work distribution here: [[progress]]
 
 building instructions for site: [[blueprint]]
 
